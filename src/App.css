@@ -1,0 +1,21 @@
+.navBar {
+  margin-top: 20px;
+}
+
+.ulNav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.liNav {
+  width: 100px;
+}
+
+.cartWidget {
+  float: right;
+}
+
+.cartWidget {
+  width: 30px;
+}
