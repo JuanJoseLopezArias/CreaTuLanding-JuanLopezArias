@@ -1,0 +1,16 @@
+.ListGroup {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: space-evenly;
+}
+
+.CardItem {
+    text-align: center;
+    background-color: green;
+    border-radius: 10px;
+}
+
+.ItemImg {
+    padding: 10px;
+}
